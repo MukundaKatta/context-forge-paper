@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-labelledby="title desc">
+  <title id="title">Lightweight evaluation workflow for tool-using AI agents</title>
+  <desc id="desc">A five-step flow from real workflow to operational scorecard.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7f8fb; }
+      .box { fill: #ffffff; stroke: #2f4f7f; stroke-width: 3; rx: 18; ry: 18; }
+      .text { fill: #18324a; font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: 700; }
+      .subtext { fill: #47627e; font-family: Arial, Helvetica, sans-serif; font-size: 18px; }
+      .arrow { stroke: #2f4f7f; stroke-width: 4; fill: none; stroke-linecap: round; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#2f4f7f"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1400" height="320" rx="28" ry="28"/>
+
+  <rect class="box" x="40" y="90" width="220" height="120" rx="18" ry="18"/>
+  <text class="text" x="150" y="138" text-anchor="middle">Real workflow</text>
+  <text class="subtext" x="150" y="172" text-anchor="middle">Start from an actual task</text>
+
+  <rect class="box" x="310" y="90" width="220" height="120" rx="18" ry="18"/>
+  <text class="text" x="420" y="138" text-anchor="middle">Expected behavior</text>
+  <text class="subtext" x="420" y="172" text-anchor="middle">Define what good looks like</text>
+
+  <rect class="box" x="580" y="90" width="220" height="120" rx="18" ry="18"/>
+  <text class="text" x="690" y="138" text-anchor="middle">Failure modes</text>
+  <text class="subtext" x="690" y="172" text-anchor="middle">Name likely ways it can fail</text>
+
+  <rect class="box" x="850" y="90" width="220" height="120" rx="18" ry="18"/>
+  <text class="text" x="960" y="138" text-anchor="middle">Compact rubric</text>
+  <text class="subtext" x="960" y="172" text-anchor="middle">Score runs consistently</text>
+
+  <rect class="box" x="1120" y="90" width="240" height="120" rx="18" ry="18"/>
+  <text class="text" x="1240" y="138" text-anchor="middle">Operational scorecard</text>
+  <text class="subtext" x="1240" y="172" text-anchor="middle">Judge rollout readiness</text>
+
+  <line class="arrow" x1="260" y1="150" x2="305" y2="150" marker-end="url(#arrowhead)"/>
+  <line class="arrow" x1="530" y1="150" x2="575" y2="150" marker-end="url(#arrowhead)"/>
+  <line class="arrow" x1="800" y1="150" x2="845" y2="150" marker-end="url(#arrowhead)"/>
+  <line class="arrow" x1="1070" y1="150" x2="1115" y2="150" marker-end="url(#arrowhead)"/>
+</svg>

@@ -1,0 +1,2 @@
+Mukunda Rao Katta is an independent software builder working on AI evaluation, context engineering, retrieval safety, and inspectable agent tooling. His work emphasizes small public artifacts that make modern AI systems easier to test, analyze, and maintain.
+

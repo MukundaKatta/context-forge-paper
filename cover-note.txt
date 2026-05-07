@@ -1,0 +1,2 @@
+This manuscript is intended as a method article. It describes a concrete software method for packing retrieval context under budget while preserving ranking transparency and scanning for prompt-injection-style risks.
+

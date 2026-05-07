@@ -1,0 +1,14 @@
+{
+  "title": "Context Forge: A Lightweight Method for Diversity-Aware Context Packing and Prompt-Injection-Aware Retrieval",
+  "author": "Mukunda Rao Katta",
+  "platform_target": "Research Square",
+  "resource_type": "Method Article",
+  "focus": [
+    "context engineering",
+    "retrieval augmented generation",
+    "prompt injection",
+    "diversity-aware packing"
+  ],
+  "source_repo": "context-forge"
+}
+
