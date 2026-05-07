@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Context Forge: A Lightweight Method for Diversity-Aware Context Packing and Prompt-Injection-Aware Retrieval"
+authors:
+  - family-names: Katta
+    given-names: Mukunda Rao
+    orcid: "https://orcid.org/0009-0007-6071-3896"
+    affiliation: "Independent Researcher"
+type: article
+date-released: 2026-05-07
+url: "https://github.com/MukundaKatta/context-forge-paper"
+license: CC-BY-4.0
